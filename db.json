@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sports shoe",
+      "image": "https://img.freepik.com/free-photo/pair-trainers_144627-3799.jpg?size=626&ext=jpg&ga=GA1.2.107694881.1686996804&semt=ais",
+      "brand": "PUMA",
+      "price": 2000,
+      "category": "foot-wear",
+      "gender": "male"
+    },
+    {
+      "name": "Levis Shirts",
+      "image": "https://img.freepik.com/free-photo/jeans-shirt_1203-7407.jpg?size=626&ext=jpg&ga=GA1.2.107694881.1686996804&semt=ais",
+      "brand": "Levis",
+      "price": 5000,
+      "category": "top-wear",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "SAHA Shirts",
+      "image": "https://img.freepik.com/premium-photo/denim-jeans-jacket-hanger-isolated-white_488220-17878.jpg?size=626&ext=jpg&ga=GA1.2.107694881.1686996804&semt=ais",
+      "brand": "SAHA",
+      "price": 4500,
+      "category": "top-wear",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "name": "Tulkzer Shirts",
+      "image": "https://img.freepik.com/free-photo/jeans-shirt_1203-7407.jpg?size=626&ext=jpg&ga=GA1.2.107694881.1686996804&semt=ais",
+      "brand": "Tulkzer",
+      "price": 1000,
+      "category": "top-wear",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Chudi",
+      "image": "https://img.freepik.com/premium-photo/hot-model-girl-landscape-wearing-yellow-desi-dress-fashion-photoshoot_658768-545.jpg?size=626&ext=jpg&ga=GA1.2.107694881.1686996804&semt=sph",
+      "brand": "Lotus",
+      "price": 6000,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "name": "Beta Pixel",
+      "image": "https://img.freepik.com/free-photo/man-wearing-brown-leather-loafer-shoes_53876-102231.jpg?size=626&ext=jpg&ga=GA1.2.107694881.1686996804&semt=ais",
+      "brand": "Beta",
+      "price": 3999,
+      "category": "foot-wear",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "name": "Skirts",
+      "image": "https://img.freepik.com/free-photo/little-girl-wearing-summer-hat_23-2148170879.jpg?size=626&ext=jpg&ga=GA1.2.107694881.1686996804&semt=ais",
+      "brand": "Sree",
+      "price": 2500,
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 7
+    },
+    {
+      "name": "Senivpetro",
+      "image": "https://img.freepik.com/free-photo/little-girl-cute-dress_1303-13471.jpg?size=626&ext=jpg&ga=GA1.2.107694881.1686996804&semt=ais",
+      "brand": "Senivpetro",
+      "price": 2500,
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 8
+    }
+  ]
+}
